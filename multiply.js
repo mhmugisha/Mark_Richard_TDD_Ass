@@ -1,3 +1,5 @@
+// Note that module.exports is an object representing this current module(multiply)
+// multiply.js is a module named multiply.
 module.exports = {
   // Test one failed when there was no multiply function
   // Fixed when we wrote the multiply function in multiply.
